@@ -32,10 +32,10 @@
   - Bukalah Github pada situs resminya yaitu *github.com*. Setelah itu pilih menu Sign Up yang terletak pada pojok kanan atas jika memang belum mempunyai akun.
 ![buatnewakun](foto/buatnewakun.png) <br>
 
-- Tulislah judul yang kalian inginkan. Kalian'pun juga bisa mengatur Repository yang akan kalian buat menjadi Privasi ataupun Publik.
+- Tulislah judul yang kalian inginkan. Kalian'pun juga bisa mengatur Repository yang akan kalian buat menjadi Privasi ataupun Publik.  <br>
 
 ![lanjutan](foto/lanjutan.png) <br>
 
--setelah melakukan steep ini selanjutnya kita push,Untuk mengirim perubahan pada local repository ke server gunakan perintah git push
+- jika repository  maka akan muncul tampilan serti dibawah ini <br>
 
-![riris](foto/riris.png) <brr>
+![latihanVCS](foto/LatihanVCS.png) <br>

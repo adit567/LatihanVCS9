@@ -71,3 +71,8 @@ Langkah selanjutnya setelah file disimpan, kita kembali pada App Git Bash (CMD).
 git add.
 
 ![ziddan](foto/ziddan.png) <br>
+
+Setelah selesai melakukan git add . langkah berikutnya kita akan melakukan *commit. Fungsi commit adalah untuk menyimpan perubahan yang dilakukan, tetapi tidak ada perubahan pada remote repository. Ketik pada App Git Bash seperti berikut ini : git commit
+"Update README.md"
+
+![gilang](foto/gilang.png) <br>

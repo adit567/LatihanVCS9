@@ -55,4 +55,4 @@ Pop Up Command Prompt (CMD) akan terbuka. Pada proses ini kita akan melakukan do
 
 git clone [URL] pada contohnya, saya akan memasukan git clone:https://github.com/adit567/LatihanVCS9.git
 
-![sobha](foto/sobha) <br>
+![sobha](foto/sobha.png) <br>

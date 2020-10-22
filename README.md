@@ -17,4 +17,4 @@
   
    - jika sudah mendapat tampilan seperti gambar dibawah ini, itu mengartikan bahwa git kalian telah berhasil terinstall.
   
-![2](foto/paste.png)<br>
+![gitversion](foto/gitversion.png) <br>

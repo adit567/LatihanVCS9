@@ -50,3 +50,9 @@ Pembuatan akun dan repository pada Github telah selesai, saat ini akan kita laku
 Setelah Link URL git kita tercopy, Silahkan buka File Explorer pada Windows, kemudian pilih folder dimana kita akan mendownload Repository dari Github ke lokal. Kemudian Klik Kanan, Pilih Git Bash Here.
 
 ![berlin](foto/berlin.png) <br>
+
+Pop Up Command Prompt (CMD) akan terbuka. Pada proses ini kita akan melakukan download file repository yang tadi dibuat, dengan mengetikkan syntax berikut :
+
+git clone [URL] pada contohnya, saya akan memasukan git clone:https://github.com/adit567/LatihanVCS9.git
+
+![sobha](foto/sobha) <br>

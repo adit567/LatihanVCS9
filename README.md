@@ -42,3 +42,7 @@ Choose a license : Silahkan centang jika Anda memiliki lisensi pada repository y
 ika repository sudah dibuat maka akan muncul tampilan seperti dibawah ini :
 
 ![maemunah](foto/maemunah.png)  <br>
+
+Pembuatan akun dan repository pada Github telah selesai, saat ini akan kita lakukan untuk me-remote repository Github pada GitBash Lokal. Bagaimana caranya? Langkah pertama kita harus menyalin link URL git kita di Github, dengan cara tekan tombol Code lalu klik Copy.
+
+![arum](foto/arum.png) <br>

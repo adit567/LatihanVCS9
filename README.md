@@ -34,4 +34,4 @@
 
 - Tulislah judul yang kalian inginkan. Kalian'pun juga bisa mengatur Repository yang akan kalian buat menjadi Privasi ataupun Publik.
 
-![awalan](foto/awalan.png) <br>
+![lanjutan](foto/lanjutan.png) <br>

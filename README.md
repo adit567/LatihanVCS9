@@ -22,3 +22,6 @@
  - Selanjutnya yang perlu kita lakukan adalah mengkonfigurasikan username & email kita pada git dengan mengetikan syntax: *'git config --global user.name "Nama Anda"'  'git config --global user.email "Email Anda"'*. Seperti pada gambar dibawah.
 
  ![useremail](foto/useremail.png) <br>
+
+ Jika sudah, lakukanlah  untuk mengetahui apakah kita sudah terdaftar atau belum dengan mengetikan syntax: *'git config --global user.name'  'git config --global user.email'*. Seperti pada gambar dibawah.
+  ![username](foto/username.png) <br>

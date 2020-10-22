@@ -31,3 +31,7 @@
 * ### LOGIN AKUN GITHUB
   - Bukalah Github pada situs resminya yaitu *github.com*. Setelah itu pilih menu Sign Up yang terletak pada pojok kanan atas jika memang belum mempunyai akun.
 ![buatnewakun](foto/buatnewakun.png) <br>
+
+- Tulislah judul yang kalian inginkan. Kalian'pun juga bisa mengatur Repository yang akan kalian buat menjadi Privasi ataupun Publik.
+
+![awalan](foto/awalan.png) <br>

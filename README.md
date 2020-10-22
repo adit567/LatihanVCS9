@@ -56,3 +56,7 @@ Pop Up Command Prompt (CMD) akan terbuka. Pada proses ini kita akan melakukan do
 git clone [URL] pada contohnya, saya akan memasukan git clone:https://github.com/adit567/LatihanVCS9.git
 
 ![sobha](foto/sobha.png) <br>
+
+Setelah proses cloning selesai, pada saat ini kita masih pada folder awal, kita harus masuk kedalam folder yang telah dicloning tadi yaitu LatihanVCS dengan mengetikkan syntax berikut : cd Latihan18/
+
+![zulfi](foto/zulfi.png) <br>

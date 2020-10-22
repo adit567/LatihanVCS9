@@ -25,3 +25,9 @@
 
  Jika sudah, lakukanlah  untuk mengetahui apakah kita sudah terdaftar atau belum dengan mengetikan syntax: *'git config --global user.name'  'git config --global user.email'*. Seperti pada gambar dibawah.
   ![username](foto/username.png) <br>
+
+  ### LANGKAH AWAL MENGGUNAKAN GITHUB
+
+* ### LOGIN AKUN GITHUB
+  - Bukalah Github pada situs resminya yaitu *github.com*. Setelah itu pilih menu Sign Up yang terletak pada pojok kanan atas jika memang belum mempunyai akun.
+  ![buatnewakun](foto/buatakun.png) <br>

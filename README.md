@@ -11,3 +11,7 @@
    Download git terlebih dahulu,dengan link berikut :click Here
 
    ![gitscm](foto/gitscm.png) <br>
+
+   setelah file terdownload silahkan lakukan instalasi dengan referensi berikut ini : Git installation guide
+
+   ![owen](foto/owen.png) <br>

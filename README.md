@@ -39,4 +39,6 @@ Choose a license : Silahkan centang jika Anda memiliki lisensi pada repository y
 
 ![lanjutan](foto/lanjutan.png) <br>
 
+ika repository sudah dibuat maka akan muncul tampilan seperti dibawah ini :
 
+![maemunah](foto/maemunah)  <br>

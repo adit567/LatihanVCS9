@@ -60,3 +60,7 @@ git clone [URL] pada contohnya, saya akan memasukan git clone:https://github.com
 Setelah proses cloning selesai, pada saat ini kita masih pada folder awal, kita harus masuk kedalam folder yang telah dicloning tadi yaitu LatihanVCS dengan mengetikkan syntax berikut : cd Latihan18/
 
 ![zulfi](foto/zulfi.png) <br>
+
+Saat ini kita sudah masuk kedalam folder LatihanVCS, Silahkan edit file README.md yang ada di File Explorer. Bisa menggunakan Text Editor *(Sublime Text, Notepad, Notepad++, Visual Studio Code). Edit sesuai dengan keinginan. Aturan file .md (Markdown) bisa dilihat di Link berikut ini : click here
+
+![ikky](foto/ikky.png)

@@ -39,3 +39,7 @@
 - jika repository  maka akan muncul tampilan serti dibawah ini <br>
 
 ![adit](foto/adit.png) <br>
+
+-Pembuatan akun dan repository pada Github telah selesai, saat ini akan kita lakukan untuk me-remote repository Github pada GitBash Lokal. Bagaimana caranya? Langkah pertama kita harus menyalin link URL git kita di Github, dengan cara tekan tombol Code lalu klik Copy.
+
+![arum](foto/arum.png) <br>

@@ -15,3 +15,8 @@
    setelah file terdownload silahkan lakukan instalasi dengan referensi berikut ini : Git installation guide
 
    ![owen](foto/owen.png) <br>
+
+   setelah installasi selesai,buka GitBash pada menu di windows, dan lakukan pengecekan versi,dengan mengetik syntax berikut :
+git --version
+
+![gitversion](foto/gitversion.png) <br>

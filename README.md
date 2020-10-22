@@ -20,3 +20,7 @@
 git --version
 
 ![gitversion](foto/gitversion.png) <br>
+
+jika muncul tampilan git version, berarti Git sudah berhasil di install dan bisa di gunakan Langkah pertama kita mengkonfirmasikan user email
+
+![useremail](foto/useremail.png) <br>

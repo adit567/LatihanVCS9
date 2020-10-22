@@ -76,3 +76,7 @@ Setelah selesai melakukan git add . langkah berikutnya kita akan melakukan *comm
 "Update README.md"
 
 ![gilang](foto/gilang.png) <br>
+
+Git commit telah selesai di lakukan. Untuk saat ini akan melakuka Git Push, Git Push berfungsi untuk mengirimkan perubahan file setelah di commit ke remote repository. Silahkan ketik pada App Git Bash seperti berikut : git push
+
+![riris](foto/riris.png) <br>

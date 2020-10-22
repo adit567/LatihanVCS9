@@ -35,3 +35,7 @@
 - Tulislah judul yang kalian inginkan. Kalian'pun juga bisa mengatur Repository yang akan kalian buat menjadi Privasi ataupun Publik.
 
 ![lanjutan](foto/lanjutan.png) <br>
+
+-setelah melakukan steep ini selanjutnya kita push,Untuk mengirim perubahan pada local repository ke server gunakan perintah git push
+
+![riris](foto/riris.png) <brr>

@@ -38,4 +38,4 @@
 
 - jika repository  maka akan muncul tampilan serti dibawah ini <br>
 
-![latihanVCS](foto/LatihanVCS.png) <br>
+![latihanVCS](foto/latihanvcs.png) <br>
